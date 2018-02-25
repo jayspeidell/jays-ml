@@ -1,1 +1,1 @@
-jays-ml
+This is a collection of helper files I use for machine learning projects. It's mostly for my own backup, and as I use it for Kaggle it's more intended for copying and pasting than importing. Feel free to use and copy anything you find here, just keep in mind the unrefined state. 
